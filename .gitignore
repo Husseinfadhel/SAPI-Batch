@@ -1,0 +1,9 @@
+venv
+__pycache__
+routers/__pycache__
+SAPI
+qr
+.vscode
+.idea
+sapi.db
+images
